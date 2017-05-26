@@ -1,0 +1,17 @@
+Package: Vennerable
+Title: Venn and Euler area-proportional diagrams
+Version: 3.0
+Author: Jonathan Swinton
+Description: A package for drawing various species of Venn diagrams.
+Maintainer: Jonathan Swinton <jonathan@swintons.net>
+LazyLoad: yes
+Depends: R (>= 2.10), graph, RBGL, grid, lattice, RColorBrewer,
+        reshape, methods, gtools, xtable
+License: GPL
+Repository: R-Forge
+Repository/R-Forge/Project: vennerable
+Repository/R-Forge/Revision: 82
+Repository/R-Forge/DateTimeStamp: 2013-07-24 22:16:12
+Date/Publication: 2013-07-24 22:16:12
+Packaged: 2013-07-25 02:41:56 UTC; rforge
+Built: R 3.0.2; ; 2014-04-28 16:51:52 UTC; unix
